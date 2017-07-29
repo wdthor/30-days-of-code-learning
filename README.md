@@ -2,7 +2,7 @@
 
 ## Contenu
 
-* [Règles](regle.md)
+* [Règles](regles.md)
 * [Journal](journal.md)
 * [FAQ](FAQ.md)
 * [Ressources](ressources.md)
