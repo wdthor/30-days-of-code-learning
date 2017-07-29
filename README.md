@@ -1,2 +1,8 @@
 # Je participe au #30DaysOfCodeLearning Challenge
-Apprendre à coder pendant 30 jours challenge
+
+## Contenu
+
+* [Règles](regle.md)
+* [Journal](journal.md)
+* [FAQ](FAQ.md)
+* [Ressources](ressources.md)
