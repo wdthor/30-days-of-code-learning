@@ -1,2 +1,2 @@
-# 100-days-of-code-learning
-Apprendre à coder pendant 100 jours challenge
+# Je participe au 30DaysOfCodeLearning Challenge
+Apprendre à coder pendant 30 jours challenge
