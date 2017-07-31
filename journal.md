@@ -6,7 +6,7 @@
 
 **Réflexion**:
 
-**Lien(s):
+**Lien(s)**:
 
 ## Jour 2: 2 Août 2017
 
@@ -14,7 +14,7 @@
 
 **Réflexion**:
 
-**Lien(s):
+**Lien(s)**:
 
 ## Jour 3: 3 Août 2017
 
@@ -22,4 +22,4 @@
 
 **Réflexion**:
 
-**Lien(s):
+**Lien(s)**:
