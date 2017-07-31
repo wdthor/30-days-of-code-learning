@@ -5,7 +5,7 @@
 
 #### Date de début
 
-1 Août 2017
+3 Août 2017
 
 ## Règles supplémentaires
 
