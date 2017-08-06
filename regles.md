@@ -3,10 +3,6 @@
 ## Engagement Principal
 ### *Je m'engage à apprendre à coder pendant au moins une demi-heure tous les jours pour les 30 prochains jours.*
 
-#### Date de début
-
-3 Août 2017
-
 ## Règles supplémentaires
 
 1. Je partagerai ma progression tous les jours sur le groupe [30DaysOfCodeLearningFr](https://www.facebook.com/groups/754994578005835/) prévu à cet effet en indiquant le jour de ma progression.
