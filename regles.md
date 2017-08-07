@@ -9,6 +9,7 @@
 2. Coder au travail ne compte pas pour ce challenge.
 3. Je me limiterai à 3 ressources maximum pour les tutoriels.
 4. Je mettrai à jour le [journal](journal.md) en ajoutant ma progression avec un lien pour que les autres puissent voir mes progrès.
+5. Si pour une raison ou une autre tu n'arrives pas à mettre à jour le journal, tu peux toujours faire un journal par écris puis faire une photo et partager sur le [groupe Facebook](https://www.facebook.com/groups/754994578005835/)
 
 ## Contenu
 
