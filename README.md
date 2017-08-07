@@ -23,4 +23,4 @@
 4. Encourage d'autres personnes à participer au challenge.
 5. **Partage ta progression tous les jours sur le [groupe Facebook](https://www.facebook.com/groups/754994578005835/)**
 6. **Important**, encourage les autres qui font le même challenge que toi, et aide les personnes en difficulté. Cela aidera à rendre la communauté efficace et utile. [Groupe Facebook](https://www.facebook.com/groups/754994578005835/), [Communauté Gitter](https://gitter.im/webdevthierry/30DaysOfCodeLearningFr)
-5. Si tu connais d'autres ressources, n'hésite pas à faire partager les autres en fesant un Pull Request pour l'ajouter à ce repository ou envoie moi un message via le [groupe Facebook](https://www.facebook.com/groups/754994578005835/).
+5. Si tu connais d'autres ressources, n'hésite pas à faire partager les autres en faisant un Pull Request pour l'ajouter à ce repository ou envoie moi un message via le [groupe Facebook](https://www.facebook.com/groups/754994578005835/).
