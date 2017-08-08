@@ -17,3 +17,9 @@
 8. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Reférence Markdown
 9. [The Odin Project](https://www.theodinproject.com/home)
 10. [Viking Code School](http://www.vikingcodeschool.com/prep)
+
+
+## Projets à faire
+
+1. [Projets FCC](https://www.freecodecamp.org/challenges/build-a-tribute-page)
+2. [Projets Codecademy](https://www.codecademy.com/en/tracks/projects)
