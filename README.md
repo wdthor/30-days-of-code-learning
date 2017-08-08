@@ -1,5 +1,7 @@
 # Je participe au #30DaysOfCodeLearning Challenge
 
+### Si vous voulez participer en même temps, la première session se déroulera le _14 Août 2017_
+
 ## Contenu
 
 * [Règles](regles.md)
@@ -9,7 +11,7 @@
 
 ## Prêt à l'aventure?
 
-  _je ne sais pas utiliser ni Git/Github, ni Markdown_  
+  _Je ne sais pas utiliser ni Git/Github, ni Markdown._  
   C'est justement une excellente opportunité de les apprendres:
   * [Git en Anglais](https://try.github.io/), [Git en Français](https://openclassrooms.com/courses/gerer-son-code-avec-git-et-github), seul le minimum est nécessaire pour ce challenge (faire un commit, clone, push). Si tu édites sur Github, tu n'a pas besoin de savoir cela.
   * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), pareil, seul le minimum est nécessaire. Aussi, vous avez juste à éditer et suivre le modèle du [journal](journal.md).
