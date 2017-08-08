@@ -31,3 +31,6 @@
 2. Si tu es débutant limite toi sur la partie front (Html/Css, Bootstrap, JavaScript,...), mieux vaut être bon sur un topic que d'être bon à rien.
 3. Dès que tu commences à avoir les bases, commence tout de suite à faire des projets, même petit. Apprendre c'est bien, pratiquer en faisant des projets, c'est mieux !
 4. Je l'ai déjà dit et redit, n'oublie pas que tu n'es pas le seul à faire ce challenge et qu'il y a une communauté pour te soutenir et t'aider quand tu en as besoin, et n'oublie pas d'aider les autres à ton tour. [Communauté Gitter](https://gitter.im/webdevthierry/30DaysOfCodeLearningFr), [Groupe Facebook](https://www.facebook.com/groups/754994578005835/)
+
+### Note
+  Si tu as aimé ce challenge, n'hésite pas à partager et rajouter une étoile :)
