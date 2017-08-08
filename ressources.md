@@ -14,3 +14,6 @@
 5. [Youtube: Traversy Media](https://www.youtube.com/user/TechGuyWeb/)
 6. [Udemy](https://www.udemy.com/courses/development/web-development/all-courses/?lang=en&price=price-free)
 7. [Try Git](https://try.github.io/) cours sur Git
+8. [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) Reférence Markdown
+9. [The Odin Project](https://www.theodinproject.com/home)
+10. [Viking Code School](http://www.vikingcodeschool.com/prep)
