@@ -18,8 +18,14 @@
 9. [The Odin Project](https://www.theodinproject.com/home)
 10. [Viking Code School](http://www.vikingcodeschool.com/prep)
 
-
 ## Projets à faire
 
 1. [Projets FCC](https://www.freecodecamp.org/challenges/build-a-tribute-page)
 2. [Projets Codecademy](https://www.codecademy.com/en/tracks/projects)
+
+## Contenu
+
+* [Règles](regles.md)
+* [Journal](journal.md)
+* [FAQ](FAQ.md)
+* [ReadMe](README.md)
