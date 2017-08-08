@@ -36,3 +36,9 @@
   1. Il te permet de mesurer ton progrès et de voir la distance que tu as parcouru, il te sera donc plus façile de trouver la motivation de continuer.  
   2. Après avoir terminé les 30 jours, tu pourras mieux analyser ton expérience et voir ce qui à marché ou non.  
   
+## Contenu
+
+* [Règles](regles.md)
+* [Journal](journal.md)
+* [ReadMe](README.md)
+* [Ressources](ressources.md)
