@@ -17,7 +17,7 @@
   
 ## Enfin prêt? C'est parti !
  
-1. Assure-toi d'avoir bien lu les [règles](regle.md) et le [FAQ](FAQ.md) si tu as des questions.
+1. Avant de commencer, assure-toi d'avoir bien lu les [règles](regle.md) et le [FAQ](FAQ.md) si tu as des questions.
 2. **Code au moins une demi-heure pendant les 30 prochains jours.**
 3. Dans le [journal](journal.md), modifie le jour ou tu commences le challenge.
 4. Encourage d'autres personnes à participer au challenge.
