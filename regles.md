@@ -13,7 +13,7 @@
 
 ## Contenu
 
-* [Règles](regles.md)
+* [ReadMe](README.md)
 * [Journal](journal.md)
 * [FAQ](FAQ.md)
 * [Ressources](ressources.md)
