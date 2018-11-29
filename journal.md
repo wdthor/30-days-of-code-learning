@@ -1,6 +1,6 @@
 # 30 Days of Code Learning - journal
 
-### Ceci est un template, éditer le comme vous voulez
+### _Ceci est un template, éditer le comme vous voulez_
 
 #### Date de début:
 9 Août 2017

@@ -4,7 +4,7 @@
   **A:** Si tu es un débutant en programmation, oui. Si tu as un niveau supérieur je te conseille plutôt de faire le [100DaysOfCode](https://github.com/Kallaway/100-days-of-code/) (en Anglais, si tu veux une version Française, fais le moi savoir), mais rien ne t'empêche de suivre ce challenge pour partir sur de bonnes bases.  
   
   **Q:** Comment puis-je entrer en contact avec les personnes qui font aussi le challenge?  
-  **A:** Cherche "30 Days of Code Learning Fr" sur Facebook ou va sur le [Groupe Gitter](https://gitter.im/webdevthierry/30DaysOfCodeLearningFr)  
+  **A:** Rejoins le Discord [FreeCodeCamp France](https://discord.gg/DzASuvv)  
   
   **Q:** Qu'est ce que le 30DaysOfCodeLearning challenge?  
   **A:** Le 30DaysOfCodeLearning challenge est un challenge ou l'on doit apprendre à coder pendant au moins 30 minutes, tous les jours pendant 30 jours.  
@@ -29,7 +29,7 @@
   **A:** Pas du tout. Tu es autorisé à manquer un jour (puis fais 1 jour de plus à la fin des 30 jours), mais ne manque jamais deux jours de suite.  
   
   **Q:** Si tous le monde a commencé un certain jour, dois-je les rejoindre le jour où ils sont? Par exemple, à partir du 9ème jour?  
-  **A:** Ce challenge est individuel, donc, lorsque tu te joins à nous, tu commences par le jour 1. Aussi, chaque fois que tu publies une mise à jour sur Facebook ou ailleurs, n'oublie pas de mentionner le jour où tu en es (tu peux utiliser le hashtag #30DaysOfCodeLearning pour que les gens puissent te trouver et te supporter!). 
+  **A:** Ce challenge est individuel, donc, lorsque tu te joins à nous, tu commences par le jour 1. Aussi, chaque fois que tu publies une mise à jour sur Discord ou ailleurs, n'oublie pas de mentionner le jour où tu en es. 
   
   **Q:** Dois-je garder un journal?  
   **A:** Tu devrais, et la meilleure façon de le faire est de faire un fork de ce repository, et de remplir le journal tous les jours. Il est utile pour 2 principales raisons:  
