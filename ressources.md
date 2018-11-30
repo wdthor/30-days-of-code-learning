@@ -1,4 +1,4 @@
-# Ressources pour le #30DaysOfCodeLearning
+# Ressources pour le #24DaysOfCodeLearning
 
 ## Tutoriels FR
 

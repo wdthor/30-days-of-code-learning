@@ -1,6 +1,6 @@
-# Je participe au #30DaysOfCodeLearning Challenge
+# Je participe au #24DaysOfCodeLearning Challenge
 
-### Si vous voulez participer en même temps, la session suivante se déroulera le _1er Décembre 2018_
+### Si vous voulez participer en même temps, l'édition spécial noël débute le _1er Décembre 2018_
 
 ## Contenu
 
@@ -20,10 +20,10 @@
 ## Enfin prêt? C'est parti !
  
 1. Avant de commencer, assure-toi d'avoir bien lu les [règles](regle.md) et le [FAQ](FAQ.md) si tu as des questions.
-2. **Code au moins 30 minutes pendant les 30 prochains jours.**
+2. **Code au moins 30 minutes pendant les 24 prochains jours.**
 3. Dans le [journal](journal.md), modifie le jour ou tu commences le challenge.
 4. Encourage d'autres personnes à participer au challenge.
-5. **Partage ta progression tous les jours sur le [Discord](https://discord.gg/DzASuvv) dans le channel code30**
+5. **Partage ta progression tous les jours sur le [Discord](https://discord.gg/DzASuvv) dans le channel code24**
 6. **Important**, encourage les autres qui font le même challenge que toi, et aide les personnes en difficulté. Cela aidera à rendre la communauté efficace et utile.
 5. Si tu connais d'autres ressources, n'hésite pas à faire partager aux autres en faisant un Pull Request pour l'ajouter à ce repository ou envoie moi un message [Discord](https://discord.gg/DzASuvv).
 

@@ -1,4 +1,4 @@
-# 30 Days of Code Learning - journal
+# 24 Days of Code Learning - journal
 
 ### _Ceci est un template, éditer le comme vous voulez_
 
