@@ -28,6 +28,6 @@
 ## Contenu
 
 * [Règles](regles.md)
-* [Journal](journal.md)
+* [Template Journal](template-journal.md)
 * [FAQ](FAQ.md)
 * [ReadMe](README.md)

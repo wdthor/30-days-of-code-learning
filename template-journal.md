@@ -1,11 +1,11 @@
-# 24 Days of Code Learning - journal
+# 30 Days of Code Learning - journal
 
 ### _Ceci est un template, éditer le comme vous voulez_
 
 #### Date de début:
-9 Août 2017
+9 Août 2020
 
-### Jour 1: 9 Août 2017
+### Jour 1: 9 Août 2020
 
 **Progrès d'aujourd'hui**: tutoriel Git, 10 challenges terminée, tutoriel Markdown
 
@@ -13,7 +13,7 @@
 
 **Lien(s)**: https://try.github.io/levels/1/challenges/11
 
-### Jour 2: 10 Août 2017
+### Jour 2: 10 Août 2020
 
 **Progrès d'aujourd'hui**: tutoriel Git, 6 challenges terminées, tutoriel Markdown
 
@@ -21,7 +21,7 @@
 
 **Lien(s)**: [Git challenge 17](https://try.github.io/levels/1/challenges/17)
 
-### Jour 3: 11 Août 2017
+### Jour 3: 11 Août 2020
 
 **Progrès d'aujourd'hui**: fin tutoriels Git et Markdown, début tutoriel Html/Css
 
